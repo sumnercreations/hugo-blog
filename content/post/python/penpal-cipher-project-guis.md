@@ -12,7 +12,7 @@ tags:
 
 # Project GUIs with GTK3+
 
-We are working on the finaly project to complete our [Complete Python Bootcamp: Go from zero to hero in Python 3 at Udemy](https://www.udemy.com/share/100058A0cdcVZbR34=/). We have decided that we will bulid a simple Caesar Cipher application that we are calling [Penpal](https://github.com/sumnercreations/penpal). During our conversation we decided that we would really like to try to make a GUI. We've taken inspiration from this online [cipher tool](https://cryptii.com/pipes/caesar-cipher).
+We are working on the final project to complete our [Complete Python Bootcamp: Go from zero to hero in Python 3 at Udemy](https://www.udemy.com/share/100058A0cdcVZbR34=/). We have decided that we will build a simple Caesar Cipher application that we are calling [Penpal](https://github.com/sumnercreations/penpal). During our conversation we decided that we would really like to try to make a GUI. We've taken inspiration from this online [cipher tool](https://cryptii.com/pipes/caesar-cipher).
 
 ## Research
 We started with Google, you know, like you do, and found a lot of options for GUIs with python. 2 of them stood out.
