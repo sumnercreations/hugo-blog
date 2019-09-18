@@ -1,13 +1,15 @@
 ---
 title: "Penpal Cipher Project - GUIs"
 date: 2019-09-11T23:41:35-06:00
+contributors:
+  - Ammon Lockwood
 draft: false
 categories:
-- development
-- python
+  - development
+  - python
 tags:
-- cipher
-- python
+  - cipher
+  - python
 ---
 
 # Project GUIs with GTK3+

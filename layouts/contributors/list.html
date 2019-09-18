@@ -1,0 +1,27 @@
+{{ define "main" }}
+    <section class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray mt5">
+        <img src="{{ .Params.photo }}" alt="{{ .Params.name }}">
+
+        <h2>Bio</h2>
+        {{ .Content }}
+        {{ with .Params.twitter }}
+            <p>
+                <a href="https://twitter.com/{{.}}">{{.}}</a>
+            </p>
+        {{ end }}
+        {{ with .Params.github }}
+            <p>
+                <a href="https://github.com/{{.}}">{{.}}</a>
+            </p>
+        {{ end }}
+    
+        <h2>Articles</h2>
+        <ul>
+            {{ range .Data.Pages }}
+                <li>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </li>
+            {{ end }}
+        </ul>
+    </section>
+{{ end }}

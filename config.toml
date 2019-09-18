@@ -6,6 +6,7 @@ theme = "ananke"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 enableRobotsTXT = true
+disableKinds = ["taxonmyTerm"]
 
 [sitemap]
   changefreq = "weekly"
@@ -19,3 +20,8 @@ enableRobotsTXT = true
   recent_posts_number = 3
   show_reading_time = true
   custom_css = ["css/custom_main.css"]
+
+[taxonomies]
+  contributor = "contributors"
+  tag = "tags"
+  category = "categories"
