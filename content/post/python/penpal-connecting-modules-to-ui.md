@@ -67,6 +67,7 @@ This works and it has what we need, but it's messy. The widgets don't fit really
 We have a functioning app, for the most part. We are aware that we are missing a feature though. The user needs to have the ability to choose the how many characters we will shift the alphabet. Right now we have it hard-coded to always shift 7 characters. We know we want to change that and we'll take care of that next. We know that we don't want to allow the user to enter a number that is larger than 26 since there are only 16 letters in the alphabet. Really it doesn't make sense to go over 25 because shifting 26 is the same as not shifting at all. We have talked about using modular math in order to do it so that if the user chooses a value higher than 25 it won't matter because we'll just take the remainder and use that and it will always be between 1 and 25.
 
 We also noticed that our labels where we are putting the endoded or decoded messages aren't selectable. That's not what we want. We expect that the user will want to copy their message and send it over to their penpal so we'll need to fix that too.
+
 [< Previous Episode - Encode & Decode Modules]({{< ref "penpal-decode-encode-classes.md" >}})
 
 [Next Episode - Finishing Touches >]({{< ref "penpal-finishing-touches.md" >}})
