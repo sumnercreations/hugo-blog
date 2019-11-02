@@ -6,6 +6,7 @@ theme = "ananke"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 enableRobotsTXT = true
+enableEmoji = true
 
 [sitemap]
   changefreq = "weekly"
