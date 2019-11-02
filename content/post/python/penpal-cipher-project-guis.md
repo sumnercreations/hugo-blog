@@ -8,6 +8,7 @@ categories:
 tags:
 - cipher
 - python
+- penpal
 ---
 
 # Project GUIs with GTK3+
@@ -47,5 +48,7 @@ In the end we decided to go with GTK3+ because it was easy enough to install and
 - Discussed how to architect the `Decoder` class
 - Got comfortable with the GTK docs and the widgets that are available. This next week should be a lot of fun!
 
-## On the Next Episode >
+## On the Next Episode
 Now that we have GTK intalled on mine and Kaleb's computer we're going to be able to spend this week working on building an interface. We'll keep it very simple so that we don't have a lot to worry about when we start to plugin in the work from Amy and April.
+
+[Next Episode - Encode & Decode Modules >]({{< ref "penpal-decode-encode-classes.md" >}})
