@@ -37,3 +37,5 @@ create table master_plan(
 
 ## On the next Episode >
 The next chapter, which we will be doing this week and we will talk about on November 6th, is creating **The Master Plan Table**. I'm sure this section will have us create this table in a much better and more complete way. I'm excited for lies ahead for us, especially excited to see how Austin, April and Kaleb do.
+
+[Next Episode - Master Plan Table >]({{< ref "a-curious-moon-week-2-master-plan.md" >}})
