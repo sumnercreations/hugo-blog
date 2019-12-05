@@ -88,3 +88,5 @@ We only create the schema if it exists. We will drop the table if it exists and 
 The next episode will be creating a make file to generate the `build.sql` and normailzing the database. We googled that and basically it means that we don't want to have duplicated inforamtion in the same table. We'll be craeting lookup tables. Sounds fun!
 
 [< Previous Episode - Setup]({{< ref "a-curious-moon-week-1-setup.md" >}})
+
+[Next Episode - Setup >]({{< ref "a-curious-moon-week-3-make-normalize.md" >}})
