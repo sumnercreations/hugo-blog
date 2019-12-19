@@ -10,7 +10,7 @@ tags:
 - postgres
 ---
 
-# A Curious Moon | Week 3 | Makefile & Normailze Data
+# A Curious Moon | Week 3 | Makefile & Normalize Data
 
 ## Apologies, it's been a while
 We are sorry, life hit us hard in November. I always forget how quickly holidays are upon us. This year April and Kaleb took a much deserved vacation and so they were out of town for a few weeks and so we opted to wait for them instead of charging on ahead of them. I think it was a wise decision. We don't want anyone becoming so far behind that they feel they can't catch up. The idea is to do this together so waiting made the most sense.
