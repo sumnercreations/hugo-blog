@@ -1,6 +1,6 @@
 baseURL = "https://lockwood.fun/"
 languageCode = "en-us"
-title = "Lockwoods Having Fun Writing Code"
+title = "Lockwood Family Having Fun Writing Code"
 theme = "ananke"
 
 DefaultContentLanguage = "en"
