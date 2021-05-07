@@ -21,6 +21,6 @@ A: A react component is a function (or a class) that optionally accepts input an
 
 You can pass a component into createElement as well.
 ## DOM Representation Comparison
-How React is able to tell what has changed in the DOM and make the changes so quickly.
+How React is able to tell what has changed in the DOM and make the changes so quickly. The virtualDOM.
 
 ## ReactDOM.render()
